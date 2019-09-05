@@ -1,0 +1,95 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  color: #484848;
+}
+
+p {
+	font-size: 14px;
+}
+
+
+.main {
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 0px 25px;
+  padding-right: 50px;
+  background: #f4f7f8;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+
+
+
+h1 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+
+.name {
+  padding: 10px 20px 10px 20px;
+  color: #FFF;
+  background-color: #416542;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid #416542;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
+}
+
+
+.content {
+  margin-bottom: 20px;
+  border: none;
+}
+
+
+
+
+.number {
+  background-color: #416542;
+  color: #fff;
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  font-size: 0.8em;
+  margin-right: 4px;
+  line-height: 30px;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+}
+
+ul li {
+	font-size: 12px;
+}
+
+img {
+	width: 150px;
+	margin-top: 30px;
+	border-radius: 100%;
+	margin-left: 180px;
+}
+
+.bio-data {
+	font-size: 11px;
+	font-weight: 400;
+}
+
+.profile {
+	font-size: 12px;
+}
+
+#form{
+	width:450px;
+	float:left;
+	padding:10px;
+}
