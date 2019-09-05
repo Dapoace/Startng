@@ -87,3 +87,9 @@ img {
 .profile {
 	font-size: 12px;
 }
+
+#form{
+	width:450px;
+	float:left;
+	padding:10px;
+}
